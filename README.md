@@ -1,16 +1,29 @@
-## Hi there 👋
+# Muhammad Bin Noman
 
-<!--
-**muhammadbinnoman/muhammadbinnoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Specialist | Ethical Hacking | Web Application Security
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Muhammad Bin Noman, focused on cybersecurity, ethical hacking, penetration testing, and understanding how web applications and systems can be secured.
+
+### Areas of Interest
+
+- 🔐 Web Application Security
+- 🛡️ Ethical Hacking and Penetration Testing
+- 🌐 Networking and Linux
+- 🐍 Python for Cybersecurity
+- 🧪 Security Labs and CTF Challenges
+
+### Technologies & Tools
+
+`Python` `HTML` `CSS` `JavaScript` `Linux` `Nmap`
+
+### Projects
+
+I build projects and practice security concepts in authorized labs to strengthen my technical skills.
+
+### Find Me Online
+
+- 🌐 **Website:** https://penetrationtesting.netlify.app/
+- 💻 **GitHub:** https://github.com/muhammadbinnoman
+- 🎥 **Instagram:** @root.muhammad
